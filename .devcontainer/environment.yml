@@ -1,0 +1,11 @@
+name: geo
+dependencies:
+  - python=3.8
+  - geopandas
+  - rasterio
+  - rioxarray
+  - ipykernel
+  - geocube
+  - metaflow
+  - pytest
+  - pre-commit
